@@ -9,12 +9,8 @@ Priya Sharma
 ##  Overview
 
 This project implements a console-based Library Management System in Java that models real-world library operations such as book inventory management, patron management, lending workflows, reservations, and recommendations.
-
 The system demonstrates strong application of Object-Oriented Programming (OOP), SOLID principles, and multiple design patterns.
 
----
-
-##  Features
 
 ### Core Features
 
